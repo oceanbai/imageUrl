@@ -1,1 +1,112 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T10:59:05.444Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.7.0" etag="Lx1VT7wgs_ykbxAk4qw5" type="github"><diagram id="QQz61ZircIYbnm9vTsVw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-08T13:28:03.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="EZ9LD3xJMkUSvy8GDyVc" version="15.7.0" type="github">
+  <diagram id="QQz61ZircIYbnm9vTsVw" name="第 1 页">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="unKhJV9gm8ckkjL5pCyX-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-1" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;ud83db1a8&quot; class=&quot;ne-p&quot; style=&quot;margin: 0 ; padding: 0 ; min-height: 24px&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;学习任务&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="unKhJV9gm8ckkjL5pCyX-2" target="unKhJV9gm8ckkjL5pCyX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-2" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;ud83db1a8&quot; class=&quot;ne-p&quot; style=&quot;margin: 0 ; padding: 0 ; min-height: 24px&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;学习项目&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="unKhJV9gm8ckkjL5pCyX-4" target="unKhJV9gm8ckkjL5pCyX-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-4" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;插班生字段&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-5" value="新增/编辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="unKhJV9gm8ckkjL5pCyX-6" target="unKhJV9gm8ckkjL5pCyX-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-6" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;插班生字段&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-7" value="新增/编辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-9" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u82029323&quot; class=&quot;ne-p&quot; style=&quot;margin: 0 ; padding: 0 ; min-height: 24px&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;批量补录&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-20" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="480" y="90" width="320" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-17" value="线下课-&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt ; background-color: rgb(255 , 255 , 255)&quot;&gt;course_monitor&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="unKhJV9gm8ckkjL5pCyX-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="unKhJV9gm8ckkjL5pCyX-19" target="unKhJV9gm8ckkjL5pCyX-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-19" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span&gt;参与方式&lt;/span&gt;：&lt;span&gt;指派、可见、报名、插班&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-21" value="线下课-人员监控" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="480" y="90" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-22" value="线下课-&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt ; background-color: rgb(255 , 255 , 255)&quot;&gt;course_monitor&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" source="unKhJV9gm8ckkjL5pCyX-22" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-26" value="&lt;div class=&quot;lake-content&quot;&gt;支持筛选&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-28" value="插班生开启 &lt;br&gt;+ &lt;br&gt;任务/项目免费" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="207" y="290" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="unKhJV9gm8ckkjL5pCyX-29" target="unKhJV9gm8ckkjL5pCyX-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="unKhJV9gm8ckkjL5pCyX-29" target="unKhJV9gm8ckkjL5pCyX-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-29" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;扫描考勤二维码&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="860" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="unKhJV9gm8ckkjL5pCyX-31" target="unKhJV9gm8ckkjL5pCyX-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-31" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u7b562a75&quot; class=&quot;ne-p&quot; style=&quot;margin: 0 ; padding: 0 ; min-height: 24px&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;学习任务&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="800" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="unKhJV9gm8ckkjL5pCyX-33" target="unKhJV9gm8ckkjL5pCyX-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-33" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u7b562a75&quot; class=&quot;ne-p&quot; style=&quot;margin: 0 ; padding: 0 ; min-height: 24px&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;学习任务&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="250" y="920" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-36" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="414" y="700" width="166" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-38" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;钉钉扫码&lt;br&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;、微信扫码、&lt;/span&gt;企业微信扫码、APP扫码&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="427" y="710" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-39" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="414" y="960" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-40" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;钉钉扫码&lt;br&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;、微信扫码、&lt;/span&gt;企业微信扫码、APP扫码&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="429" y="975" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
