@@ -1,1 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T09:12:21.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.7.0" etag="_aEYtRexl0UgcRQE18Q0" type="github"><diagram id="jeWRTXNoOYOlurIpA6Xa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-10T09:19:00.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="rNuoyHYaHdUE0SHbJE2J" version="15.7.0" type="github">
+  <diagram id="jeWRTXNoOYOlurIpA6Xa" name="第 1 页">
+    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zCmaOvVnBD8p-difWN_1-1" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="180" width="20" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="zCmaOvVnBD8p-difWN_1-3" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="zCmaOvVnBD8p-difWN_1-1" target="zCmaOvVnBD8p-difWN_1-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="10" y="70" as="sourcePoint" />
+            <mxPoint x="170" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zCmaOvVnBD8p-difWN_1-4" value="扫签到/签退二维码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="184" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zCmaOvVnBD8p-difWN_1-5" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="100" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="zCmaOvVnBD8p-difWN_1-7" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="180" width="100" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="zCmaOvVnBD8p-difWN_1-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="zCmaOvVnBD8p-difWN_1-7">
+          <mxGeometry x="50" y="140" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zCmaOvVnBD8p-difWN_1-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="zCmaOvVnBD8p-difWN_1-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="122" as="sourcePoint" />
+            <mxPoint x="60" y="155" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="122" />
+              <mxPoint x="80" y="155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zCmaOvVnBD8p-difWN_1-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="zCmaOvVnBD8p-difWN_1-7">
+          <mxGeometry x="50" y="200" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zCmaOvVnBD8p-difWN_1-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="zCmaOvVnBD8p-difWN_1-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="175.5" as="sourcePoint" />
+            <mxPoint x="60" y="208.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="175.5" />
+              <mxPoint x="80" y="208.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zCmaOvVnBD8p-difWN_1-12" value="插班生" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="568" y="263" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zCmaOvVnBD8p-difWN_1-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="550" y="250" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zCmaOvVnBD8p-difWN_1-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zCmaOvVnBD8p-difWN_1-19" target="zCmaOvVnBD8p-difWN_1-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="254" />
+              <mxPoint x="580" y="292" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zCmaOvVnBD8p-difWN_1-21" value="调用后端判断状态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="412" y="234" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zCmaOvVnBD8p-difWN_1-24" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="329.5" y="264" as="sourcePoint" />
+            <mxPoint x="550" y="264" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zCmaOvVnBD8p-difWN_1-26" value="执行签到/签退" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="360" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zCmaOvVnBD8p-difWN_1-28" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=-0.2;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="328.25" y="414" as="sourcePoint" />
+            <mxPoint x="119.75" y="414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zCmaOvVnBD8p-difWN_1-29" value="签到/签退结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="394" y="374" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zCmaOvVnBD8p-difWN_1-45" value="加入学习任务/项目" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="310" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zCmaOvVnBD8p-difWN_1-46" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=-0.2;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="zCmaOvVnBD8p-difWN_1-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="550" y="400" as="sourcePoint" />
+            <mxPoint x="341.5" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zCmaOvVnBD8p-difWN_1-47" value="签到/签退结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="385" width="96" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
