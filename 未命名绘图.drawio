@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T02:32:15.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="AWi5SuVwmmmi2-wJn9qa" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T02:33:52.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="55fe3EBGyVRGscOGS_IC" version="15.7.0" type="github">
   <diagram id="QQz61ZircIYbnm9vTsVw" name="第 1 页">
     <mxGraphModel dx="2489" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,7 +145,7 @@
         <mxCell id="unKhJV9gm8ckkjL5pCyX-87" value="导入可以是任务以外的、但是是组织架构内的人员，则将这些人员加入任务" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="780" y="160" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="unKhJV9gm8ckkjL5pCyX-88" value="非付费：新增功能" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-88" value="非付费：新增功能（支持插班生）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="734" y="120" width="103" height="20" as="geometry" />
         </mxCell>
         <mxCell id="unKhJV9gm8ckkjL5pCyX-90" value="补录导入人员考勤" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
