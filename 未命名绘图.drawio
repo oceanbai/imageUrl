@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T05:44:15.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="GAf1I1LC7r9GPgYMFVwC" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T02:32:15.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="AWi5SuVwmmmi2-wJn9qa" version="15.7.0" type="github">
   <diagram id="QQz61ZircIYbnm9vTsVw" name="第 1 页">
     <mxGraphModel dx="2489" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,10 +16,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="unKhJV9gm8ckkjL5pCyX-2" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;ud83db1a8&quot; class=&quot;ne-p&quot; style=&quot;margin: 0 ; padding: 0 ; min-height: 24px&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;学习项目&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="unKhJV9gm8ckkjL5pCyX-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="unKhJV9gm8ckkjL5pCyX-4" target="unKhJV9gm8ckkjL5pCyX-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="90" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="unKhJV9gm8ckkjL5pCyX-4" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;插班生字段&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="200" width="120" height="50" as="geometry" />
@@ -27,17 +24,11 @@
         <mxCell id="unKhJV9gm8ckkjL5pCyX-5" value="新增/编辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-10" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="unKhJV9gm8ckkjL5pCyX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="unKhJV9gm8ckkjL5pCyX-6" target="unKhJV9gm8ckkjL5pCyX-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="unKhJV9gm8ckkjL5pCyX-6" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;插班生字段&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="200" width="120" height="50" as="geometry" />
+          <mxGeometry x="90" y="200" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="unKhJV9gm8ckkjL5pCyX-7" value="新增/编辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="140" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="unKhJV9gm8ckkjL5pCyX-9" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u82029323&quot; class=&quot;ne-p&quot; style=&quot;margin: 0 ; padding: 0 ; min-height: 24px&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;批量补录&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="unKhJV9gm8ckkjL5pCyX-20" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="330" y="60" width="320" height="300" as="geometry" />
@@ -69,9 +60,6 @@
         </mxCell>
         <mxCell id="unKhJV9gm8ckkjL5pCyX-26" value="&lt;div class=&quot;lake-content&quot;&gt;支持筛选&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="270" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="unKhJV9gm8ckkjL5pCyX-28" value="插班生开启 &lt;br&gt;+ &lt;br&gt;任务/项目免费" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="47" y="260" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="unKhJV9gm8ckkjL5pCyX-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="unKhJV9gm8ckkjL5pCyX-50" target="unKhJV9gm8ckkjL5pCyX-52">
           <mxGeometry relative="1" as="geometry" />
@@ -115,17 +103,56 @@
         <mxCell id="unKhJV9gm8ckkjL5pCyX-66" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;移动端首页-线下考勤-考勤二维码&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="324" y="635" width="296" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="unKhJV9gm8ckkjL5pCyX-69" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u7b562a75&quot; class=&quot;ne-p&quot; style=&quot;margin: 0 ; padding: 0 ; min-height: 24px&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;用户扫码：签到接口新增操作：1.判断是否需要付费；2.符合加入条件后，初始化人员相关资源，并执行签到/签退处理；3.需要付费时，先执行付费流程，后再次扫码签到&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="670" y="545" width="260" height="80" as="geometry" />
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-69" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;p id=&quot;u7b562a75&quot; class=&quot;ne-p&quot; style=&quot;margin: 0 ; padding: 0 ; min-height: 24px&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;用户扫码：签到接口新增操作：&lt;br&gt;1.先判断是否&lt;/span&gt;需要付费；&lt;br&gt;2.不需要付费，初始化人员相关资源，并执行签到/签退处理；&lt;br&gt;3.需要付费时，先执行付费流程，后再次扫码签到&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="670" y="543" width="340" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="unKhJV9gm8ckkjL5pCyX-75" value="1.pc：新增/编辑、批量补录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="20" width="160" height="20" as="geometry" />
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-75" value="1.pc：学习任务/项目新增/编辑" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="20" width="170" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="unKhJV9gm8ckkjL5pCyX-76" value="2.pc：人员监控模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-76" value="2.pc：线下课人员监控" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="300" y="20" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="unKhJV9gm8ckkjL5pCyX-77" value="3.移动端扫码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-77" value="4.移动端扫码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-140" y="535" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-79" value="新增列" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="420" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-84" value="3.pc：批量补录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="720" y="20" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="unKhJV9gm8ckkjL5pCyX-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="unKhJV9gm8ckkjL5pCyX-85" target="unKhJV9gm8ckkjL5pCyX-90">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="75" />
+              <mxPoint x="960" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-85" value="批量补录" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="783.5" y="60" width="113" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="unKhJV9gm8ckkjL5pCyX-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="845" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-87" value="导入可以是任务以外的、但是是组织架构内的人员，则将这些人员加入任务" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="780" y="160" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-88" value="非付费：新增功能" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="734" y="120" width="103" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-90" value="补录导入人员考勤" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="785" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="unKhJV9gm8ckkjL5pCyX-92" value="付费：不支持插班生" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="970" y="200" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
