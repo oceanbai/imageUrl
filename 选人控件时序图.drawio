@@ -1,44 +1,105 @@
-<mxfile host="app.diagrams.net" modified="2021-11-28T15:39:39.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="GNZWNMm_IqhxhlF14dz8" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-28T15:54:12.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="ZvSXYqWRUImQ11e4nk5_" version="15.7.1" type="github">
   <diagram id="2i1AgCFSNw8VUDt2Nsr4" name="第 1 页">
     <mxGraphModel dx="1662" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EBbauXGMRuYDV_OsrG0C-5" value="管理员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="400" width="100" height="300" as="geometry" />
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-5" value="客户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="400" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-29" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0;exitY=0.929;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="EBbauXGMRuYDV_OsrG0C-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="210" as="targetPoint" />
+            <mxPoint x="225" y="210" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="EBbauXGMRuYDV_OsrG0C-6" value="选人控件（前端）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="400" width="100" height="300" as="geometry" />
+          <mxGeometry x="280" y="400" width="100" height="360" as="geometry" />
         </mxCell>
         <mxCell id="EBbauXGMRuYDV_OsrG0C-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="EBbauXGMRuYDV_OsrG0C-6">
-          <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="EBbauXGMRuYDV_OsrG0C-10" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="EBbauXGMRuYDV_OsrG0C-8" parent="EBbauXGMRuYDV_OsrG0C-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-25" y="146" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="45" y="70" width="10" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EBbauXGMRuYDV_OsrG0C-7" value="选人控件（后端）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="400" width="100" height="300" as="geometry" />
+          <mxGeometry x="470" y="400" width="100" height="360" as="geometry" />
         </mxCell>
         <mxCell id="EBbauXGMRuYDV_OsrG0C-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="EBbauXGMRuYDV_OsrG0C-7">
-          <mxGeometry x="45" y="70" width="10" height="80" as="geometry" />
+          <mxGeometry x="45" y="70" width="10" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="EBbauXGMRuYDV_OsrG0C-13" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="EBbauXGMRuYDV_OsrG0C-11" parent="EBbauXGMRuYDV_OsrG0C-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-25" y="146" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-24" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="EBbauXGMRuYDV_OsrG0C-7">
+          <mxGeometry x="45" y="240" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EBbauXGMRuYDV_OsrG0C-9" value="1.选择规则" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="EBbauXGMRuYDV_OsrG0C-8" parent="1" source="EBbauXGMRuYDV_OsrG0C-5">
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-9" value="1.配置规则" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="EBbauXGMRuYDV_OsrG0C-8" parent="1" source="EBbauXGMRuYDV_OsrG0C-5">
           <mxGeometry x="0.0313" relative="1" as="geometry">
             <mxPoint x="255" y="470" as="sourcePoint" />
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EBbauXGMRuYDV_OsrG0C-12" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="EBbauXGMRuYDV_OsrG0C-11" parent="1" source="EBbauXGMRuYDV_OsrG0C-8">
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-12" value="2.保存规则" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="EBbauXGMRuYDV_OsrG0C-11" parent="1" source="EBbauXGMRuYDV_OsrG0C-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="445" y="470" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="560" y="505" width="10" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-15" value="3.根据规则加入人员" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="EBbauXGMRuYDV_OsrG0C-14" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="505" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-16" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="EBbauXGMRuYDV_OsrG0C-14" parent="1" target="EBbauXGMRuYDV_OsrG0C-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="581" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-18" value="4.根据规则注册定时器" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.1;entryY=0.271;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="EBbauXGMRuYDV_OsrG0C-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="560" as="sourcePoint" />
+            <mxPoint x="590" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-19" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" source="EBbauXGMRuYDV_OsrG0C-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="519.5" y="593.25" as="targetPoint" />
+            <mxPoint x="590" y="593" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-34" value="return" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EBbauXGMRuYDV_OsrG0C-19">
+          <mxGeometry x="-0.2158" y="2" relative="1" as="geometry">
+            <mxPoint x="-25" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-22" value="5.返回调用结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="383" y="575" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-27" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=0;exitY=0.929;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="EBbauXGMRuYDV_OsrG0C-11" target="EBbauXGMRuYDV_OsrG0C-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="669.25" as="targetPoint" />
+            <mxPoint x="450.5" y="669" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-25" value="触发加入规则，增加人员" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="709.5" y="646" as="sourcePoint" />
+            <mxPoint x="525" y="646" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-30" value="定时器" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="400" width="100" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-31" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="EBbauXGMRuYDV_OsrG0C-30">
+          <mxGeometry x="45" y="140" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="EBbauXGMRuYDV_OsrG0C-30">
+          <mxGeometry x="45" y="240" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-26" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=1;exitY=0.95;rounded=0;" edge="1" source="EBbauXGMRuYDV_OsrG0C-24" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="688" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-35" value="6.通知结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="585" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
