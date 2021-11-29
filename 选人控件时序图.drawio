@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-29T01:42:33.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="05Q6Y05yJ8TrSZCOJm9U" version="15.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-29T01:44:15.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="S3ZV_Ogz6PvQWgWsM4qA" version="15.7.1" type="github">
   <diagram id="2i1AgCFSNw8VUDt2Nsr4" name="第 1 页">
     <mxGraphModel dx="1278" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
         <mxCell id="EBbauXGMRuYDV_OsrG0C-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
           <mxGeometry x="560" y="505" width="10" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="EBbauXGMRuYDV_OsrG0C-15" value="3.根据规则加入人员" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="EBbauXGMRuYDV_OsrG0C-14" parent="1">
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-15" value="3.根据规则增加/删除人员" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="EBbauXGMRuYDV_OsrG0C-14" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="525" y="505" as="sourcePoint" />
           </mxGeometry>
@@ -78,7 +78,7 @@
             <mxPoint x="450.5" y="669" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EBbauXGMRuYDV_OsrG0C-25" value="触发加入规则，增加人员" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="EBbauXGMRuYDV_OsrG0C-25" value="触发加入规则，增加/删除人员" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="709.5" y="646" as="sourcePoint" />
             <mxPoint x="525" y="646" as="targetPoint" />
